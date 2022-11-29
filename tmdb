@@ -1,5 +1,7 @@
-{"page":1,
-"results":[{"adult":false,
+{
+"page":1,"results":[
+  {
+"adult":false,
 "backdrop_path":"/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
 "id":436270,
 "title":"Black Adam",
@@ -13,6 +15,5 @@
 "release_date":"2022-10-19",
 "video":false,
 "vote_average":6.894,
-"vote_count":1366,
-"origin_country":["US"]},
-"total_pages":1000,"total_results":20000}
+"vote_count":1366},
+{"adult":false,"backdrop_path":"/qtfMr08KQsWXnCHY0a96N8NpQ2l.jpg","id":30984,"name":"Bleach","original_language":"ja","original_name":"ブリーチ","overview":"For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.","poster_path":"/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg","media_type":"tv","genre_ids":[10759,16,10765],"popularity":327.75,"first_air_date":"2004-10-05","vote_average":8.4,"vote_count":1369,"origin_country":["JP"]}],"total_pages":1000,"total_results":20000}
